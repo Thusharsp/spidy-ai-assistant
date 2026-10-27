@@ -97,7 +97,6 @@ def main():
     print("=" * 40)
 
     speak("Spidy is online. How can I help you?")
-    speak("SPEAK YOU BLUDDY..!")
 
     while True:
         user_text = listen()
